@@ -3,7 +3,7 @@ package com.islongfei.classloader;
 /**
  * @author islongfei
  * @date 2021.06.06
- * 指定jvm编译模式，优化热点代码执行效率
+ * 指定jvm编译模式，热点代码执行效率对比
  */
 public class WayToRun {
 
