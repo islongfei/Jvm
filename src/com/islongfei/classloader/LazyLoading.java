@@ -9,7 +9,7 @@ public class LazyLoading {
 
 
     /**
-     * jvm规范并没有规定何时加载类，按需加载
+     * jvm规范并没有规定何时加载类，按需加载。但严格规定了什么时候initialzing
      *
      * @param args
      * @throws Exception
